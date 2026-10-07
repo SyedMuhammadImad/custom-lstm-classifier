@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-07",
-  "title": "CA5 custom LSTM classification",
+  "date": "2026-10-08",
+  "title": "Custom gated recurrent classifier",
   "completion_gate_passed": true,
   "files": [
     {
@@ -9,19 +9,9 @@
       "bytes": 102
     },
     {
-      "path": "assignment.ipynb",
-      "sha256": "ced46cf81fd05e21f502cb393ab2d88077e19b264f1e426bb13f06ac35effb06",
-      "bytes": 2909
-    },
-    {
-      "path": "assignment.json",
-      "sha256": "d74518668002dd8cb3a7941063bb06ab8341fbd291105ab5b7bcc004d58e5d33",
-      "bytes": 21
-    },
-    {
       "path": "ATTRIBUTION.md",
-      "sha256": "799b1851e286c6c705f205d3d9963b54707e63c2200fcc7f377932e9a6ba5d6d",
-      "bytes": 601
+      "sha256": "34e16e1bf0a79ad59fc7954d98cabc044a58a8e8fadc2441bbf1a3495ffd654e",
+      "bytes": 378
     },
     {
       "path": "experiment.py",
@@ -30,8 +20,8 @@
     },
     {
       "path": "experiment_core.py",
-      "sha256": "6c74b17c1c85c92ad4d713607a5bc0362e60e3d4bd9e2543d118c698840fd8ea",
-      "bytes": 11756
+      "sha256": "8b483459110f1adb8b23c35bcd016447f0a09af6f3169a3b9b71116accdedb95",
+      "bytes": 11956
     },
     {
       "path": "metrics.json",
@@ -40,13 +30,23 @@
     },
     {
       "path": "models.py",
-      "sha256": "2be23ccc145dc0243ccca545d71a3717585792f170027a5dee7d645510c9b187",
-      "bytes": 3193
+      "sha256": "d3d02fe046ccf3588bbb0f2aeb5ca55bd94b05711858f7742955c8a5937e4338",
+      "bytes": 3189
+    },
+    {
+      "path": "project.ipynb",
+      "sha256": "b8b41802e2ed4f38f94bbc9ddd55e6b4a48b3308bf5fcad82beeb5853fe51d5e",
+      "bytes": 2924
+    },
+    {
+      "path": "project.json",
+      "sha256": "d74518668002dd8cb3a7941063bb06ab8341fbd291105ab5b7bcc004d58e5d33",
+      "bytes": 21
     },
     {
       "path": "README.md",
-      "sha256": "cd8c1c1e6ea0244d94150553caec099b3e9e7192a70fc781e91a6eab5dc60127",
-      "bytes": 3348
+      "sha256": "1da9297ba3fb50ca5c600c64279056fc365f813412b009b35e5d7b9ba7c17c3b",
+      "bytes": 3347
     },
     {
       "path": "requirements.txt",
@@ -60,13 +60,13 @@
     },
     {
       "path": "test_workflow.py",
-      "sha256": "13e5fd5bfbb58f79c012d1ffdeeeae6c23f87e6ef6826c987e285ef4f020f8a4",
-      "bytes": 2834
+      "sha256": "5f4838cfdcf68cf979736842f8d78e6ee4834bf0db6eeeb415fdb1f1817ca0dc",
+      "bytes": 2887
     },
     {
       "path": "VERIFICATION.json",
-      "sha256": "e82766bae3eeed086cffd1000bc71da2afc8fd68cf8ac08856d5ffe1dd3911dc",
-      "bytes": 994
+      "sha256": "615db302c21632db741481a2f4358d57c4b5dc649f9cb2bb5a8aa97cf052cee4",
+      "bytes": 987
     }
   ]
 }

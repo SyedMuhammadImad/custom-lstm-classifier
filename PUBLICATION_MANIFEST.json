@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-07",
+  "title": "CA5 custom LSTM classification",
+  "completion_gate_passed": true,
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "c12e024ea0563a22944846ef60bb62c88bd3d13491c5519cdf5cfa1086c661e7",
+      "bytes": 102
+    },
+    {
+      "path": "assignment.ipynb",
+      "sha256": "ced46cf81fd05e21f502cb393ab2d88077e19b264f1e426bb13f06ac35effb06",
+      "bytes": 2909
+    },
+    {
+      "path": "assignment.json",
+      "sha256": "d74518668002dd8cb3a7941063bb06ab8341fbd291105ab5b7bcc004d58e5d33",
+      "bytes": 21
+    },
+    {
+      "path": "ATTRIBUTION.md",
+      "sha256": "799b1851e286c6c705f205d3d9963b54707e63c2200fcc7f377932e9a6ba5d6d",
+      "bytes": 601
+    },
+    {
+      "path": "experiment.py",
+      "sha256": "1cf6e258c8955fae304fe35e2cc106e00743d456ec4b2652c82655f6d73d4e53",
+      "bytes": 85
+    },
+    {
+      "path": "experiment_core.py",
+      "sha256": "6c74b17c1c85c92ad4d713607a5bc0362e60e3d4bd9e2543d118c698840fd8ea",
+      "bytes": 11756
+    },
+    {
+      "path": "metrics.json",
+      "sha256": "4b9ecab17e5b25ec50f66f415ee0a92376994bac951b22bc62f6b5d34a5271a0",
+      "bytes": 6026
+    },
+    {
+      "path": "models.py",
+      "sha256": "2be23ccc145dc0243ccca545d71a3717585792f170027a5dee7d645510c9b187",
+      "bytes": 3193
+    },
+    {
+      "path": "README.md",
+      "sha256": "cd8c1c1e6ea0244d94150553caec099b3e9e7192a70fc781e91a6eab5dc60127",
+      "bytes": 3348
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "8a9815ac3ec593524ad6fec33a14238d8e5ce3d655d99fcece764032e6c8b07f",
+      "bytes": 80
+    },
+    {
+      "path": "test_models.py",
+      "sha256": "67fc579def2c166ba84c25f1c8692aeeec7f9820ea2cacdc25cea97af47e4eda",
+      "bytes": 2067
+    },
+    {
+      "path": "test_workflow.py",
+      "sha256": "13e5fd5bfbb58f79c012d1ffdeeeae6c23f87e6ef6826c987e285ef4f020f8a4",
+      "bytes": 2834
+    },
+    {
+      "path": "VERIFICATION.json",
+      "sha256": "e82766bae3eeed086cffd1000bc71da2afc8fd68cf8ac08856d5ffe1dd3911dc",
+      "bytes": 994
+    }
+  ]
+}
